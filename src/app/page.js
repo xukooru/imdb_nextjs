@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <main >
-      <h1>IMDB CLone</h1>
+      <h1 className='text-red-700 font-black'>IMDB CLone</h1>
     </main>
   )
 }
